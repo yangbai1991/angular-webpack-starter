@@ -1,2 +1,8 @@
 # angular-webpack-starter
-> angular2 webpack
+
+```
+yarn install or npm install
+
+npm start
+```
+http://localhost:3000
