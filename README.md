@@ -1,2 +1,2 @@
 # angular-webpack-starter
-angular2 webpack
+> angular2 webpack
