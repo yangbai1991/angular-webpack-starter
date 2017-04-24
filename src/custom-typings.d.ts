@@ -29,3 +29,4 @@
 
 declare var ENV: string;
 declare var process: {env: {NODE_ENV: ''}};
+declare var module: {hot: {accept: any}};
